@@ -20,7 +20,7 @@ Both VGG19 and ResNet152 were used to test this concept. While the results on Re
 
 ### Training
 
-Comment out the prediction part of the code in `load_data.py'.
+Comment out the prediction part of the code in `load_data.py`.
 
 ### Testing
 
